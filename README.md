@@ -30,7 +30,7 @@ python3 shopify.py --list-collections --url [site's url] > products.csv
 
 ```bash
 python3 shopify.py -c col1,col2,col3 --url [site's url] > products.csv
-python3 shopify.py -c vip,babs-and-bab-lows --url https://www.greats.com > products.csv
+python3 shopify.py -c men,for-him,hats --url https://www.qalo.com > products.csv
 ```
 
 ### Shopify URLs in batch
